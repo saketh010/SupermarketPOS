@@ -1,6 +1,9 @@
 # Supermarket POS
 This project implements a Supermarket Point of Sale (POS) system using Python and the Tkinter library for creating a graphical user interface (GUI). The system allows users to select desired products and specify the quantity, and it provides functionalities for generating transaction records and keeping copies of transactions using Microsoft Excel.
 
+![image](https://github.com/saketh010/SupermarketPOS/assets/141061658/67b55c2d-40e0-4acc-a6f3-2c6928925f32)
+
+
 Features:
 
 Interactive GUI for selecting products and specifying quantities.
