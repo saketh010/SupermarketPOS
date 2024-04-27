@@ -608,7 +608,7 @@ subtotal.place(x=350, y=50)
 
 subtotal_var = StringVar()
 subtotal_entry = Entry(right_frame, textvariable=subtotal_var, width=10)
-subtotal_entry.place(x=460, y=50)
+subtotal_entry.place(x=420, y=50)
 
 
 total = Label(right_frame, text="Total:", font=("Aisha Latin Semibold", 10, "bold"), bg=color)
